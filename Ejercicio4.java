@@ -29,7 +29,7 @@ public class Ejercicio4 {
             n1=leer_entrada.nextInt();
             System.out.println("Introduce un valor para la altura: ");
             n2=leer_entrada.nextInt();
-            resultado= 1.72 * n2;
+            resultado= n1 * n2;
             System.out.println("El área del rectángulo es: " + resultado);
             }
         else if (p.equals(p3)){
